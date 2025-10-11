@@ -2,7 +2,7 @@
 title: Almalinux -タイトル-
 description: Almalinuxタイトル
 published: true
-date: 2025-10-11T21:40:49.733Z
+date: 2025-10-11T21:41:07.444Z
 tags: almalinux, title
 editor: markdown
 dateCreated: 2025-10-11T21:40:49.733Z
