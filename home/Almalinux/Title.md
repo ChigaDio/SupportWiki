@@ -2,7 +2,7 @@
 title: Almalinux -タイトル-
 description: Almalinuxタイトル
 published: true
-date: 2025-10-11T21:41:07.444Z
+date: 2025-10-11T22:19:07.108Z
 tags: almalinux, title
 editor: markdown
 dateCreated: 2025-10-11T21:40:49.733Z
@@ -11,6 +11,9 @@ dateCreated: 2025-10-11T21:40:49.733Z
 # AlmaLinux とは
 
 AlmaLinuxは、**Red Hat Enterprise Linux (RHEL)** のクローンとして開発された、無料でオープンソースのLinuxディストリビューションです。エンタープライズ向けに安定性と長期サポートを提供し、コミュニティ主導で運営されています。CentOSの後継として位置づけられ、サーバーやクラウド環境で広く利用されています。
+
+## 📜 主なMemoPage
+- [**Docker**](https://wiki-heroku-9e9k.onrender.com/ja/home/Almalinux/Docker)
 
 ## 主な特徴
 - **RHEL互換**: RHELと1:1のバイナリ互換性を持ち、RHEL向けのアプリケーションやツールがそのまま動作。
