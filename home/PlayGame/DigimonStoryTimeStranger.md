@@ -2,7 +2,7 @@
 title: デジモンストーリー タイムストレンジャー
 description: デジモンストーリー タイムストレンジャー
 published: true
-date: 2025-10-12T08:39:28.714Z
+date: 2025-10-12T08:40:04.900Z
 tags: game, steam, ps5, rpg, 育成, デジモン
 editor: markdown
 dateCreated: 2025-10-12T08:02:50.600Z
@@ -33,7 +33,7 @@ dateCreated: 2025-10-12T08:02:50.600Z
 
 ## 📹　動画
 
-<iframe height="197" width="646" src="https://store.steampowered.com/widget/1091500/" style="border: 0px; margin: 1rem 0px;"></iframe>
+<iframe src="https://mstdn.maud.io/@hota/4527143/embed" class="mastodon-embed" style="max-width: 100%; border: 0; margin: 1rem 0" width="600" height="615"></iframe>
 
 
 
