@@ -2,7 +2,7 @@
 title: デジモンストーリー タイムストレンジャー
 description: デジモンストーリー タイムストレンジャー
 published: true
-date: 2025-10-12T08:02:50.600Z
+date: 2025-10-12T08:33:13.946Z
 tags: game, steam, ps5, rpg, 育成, デジモン
 editor: markdown
 dateCreated: 2025-10-12T08:02:50.600Z
@@ -33,7 +33,14 @@ dateCreated: 2025-10-12T08:02:50.600Z
 
 ## 📹　動画
 
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/EX3R8aoBQlg" title="家庭用ゲーム【デジモンストーリー タイムストレンジャー】ローンチトレーラー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+        src="https://www.youtube.com/embed/nyExEDtqx64"
+        title="デジモンストーリー タイムストレンジャー"
+        frameborder="0"
+       >
+</iframe>
+
+
 
 
 
