@@ -2,7 +2,7 @@
 title: C#
 description: C#
 published: true
-date: 2025-10-12T00:58:20.406Z
+date: 2025-10-12T01:03:45.453Z
 tags: title, c#
 editor: markdown
 dateCreated: 2025-10-12T00:58:20.406Z
@@ -30,9 +30,8 @@ dateCreated: 2025-10-12T00:58:20.406Z
 ---
 ## 📜 MemoPage
 - [**デザインパターン**](https://wiki-heroku-9e9k.onrender.com/ja/home/CSharp/designpatterns)
----
 
-## 
+
 
 ---
 
