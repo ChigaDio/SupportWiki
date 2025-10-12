@@ -2,7 +2,7 @@
 title: Almalinux -タイトル-
 description: Almalinuxタイトル
 published: true
-date: 2025-10-12T06:58:26.176Z
+date: 2025-10-12T07:06:21.391Z
 tags: almalinux, title
 editor: markdown
 dateCreated: 2025-10-11T21:40:49.733Z
@@ -16,6 +16,7 @@ AlmaLinuxは、**Red Hat Enterprise Linux (RHEL)** のクローンとして開�
 - [**Docker**](https://wiki-heroku-9e9k.onrender.com/ja/home/Almalinux/Docker)
 - [**FireWall**](https://wiki-heroku-9e9k.onrender.com/ja/home/Almalinux/Firewall)
 - [**Swap**](https://wiki-heroku-9e9k.onrender.com/ja/home/Almalinux/Swap)
+- [**Permission**](https://wiki-heroku-9e9k.onrender.com/ja/home/Almalinux/Permission)
 
 ## 主な特徴
 - **RHEL互換**: RHELと1:1のバイナリ互換性を持ち、RHEL向けのアプリケーションやツールがそのまま動作。
