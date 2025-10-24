@@ -2,7 +2,7 @@
 title: SupportChigadio
 description: Unity専用サポートひな型ツール
 published: true
-date: 2025-10-24T11:59:17.748Z
+date: 2025-10-24T14:17:39.317Z
 tags: c#, script, unity
 editor: markdown
 dateCreated: 2025-10-24T11:40:14.239Z
@@ -34,7 +34,7 @@ UniTaskは、Unityでの非同期プログラミングを簡素化するため�
    - Package Managerウィンドウで「Add package from git URL」をクリック。
    - 以下のURLを入力：
      ```
-     https://github.com/Cysharp/UniTask.git?path=/Assets/Plugins/UniTask
+     https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask  
      ```
 3. **インストール**
    - 「Add」をクリックしてインストールを完了。
