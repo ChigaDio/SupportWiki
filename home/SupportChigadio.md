@@ -2,7 +2,7 @@
 title: SupportChigadio
 description: Unity専用サポートひな型ツール
 published: true
-date: 2025-10-24T11:40:14.239Z
+date: 2025-10-24T11:59:17.748Z
 tags: c#, script, unity
 editor: markdown
 dateCreated: 2025-10-24T11:40:14.239Z
@@ -14,6 +14,9 @@ dateCreated: 2025-10-24T11:40:14.239Z
 SupportChigadioは、Unity向けの専用独自ツールです。主な機能は、C#のプログラミング自動生成のためのひな型ツールを提供することです。このツールを使用することで、開発者は効率的にコードの雛形を生成し、Unityプロジェクトの開発を加速できます。
 
 リポジトリ: [https://github.com/ChigaDio/SupportChigadio](https://github.com/ChigaDio/SupportChigadio)
+
+## 📜 **各使い方**
+- [Enumの自動生成](https://wiki-heroku-9e9k.onrender.com/ja/home/SupportChigadio/Enum)
 
 ## 🛠️ **必要条件**
 このツールを使用するには、以下の2つのUnityパッケージが必要です：
